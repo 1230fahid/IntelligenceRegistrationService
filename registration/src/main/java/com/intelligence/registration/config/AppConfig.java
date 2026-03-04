@@ -8,4 +8,5 @@ import com.intelligence.registration.controller.service.RegisterService;
 
 @Configuration
 public class AppConfig {
+
 }
